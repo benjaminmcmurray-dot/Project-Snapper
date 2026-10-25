@@ -1,0 +1,17 @@
+Category,Item Name,Specification,Qty,Est Cost (NZD),Function,Bought,Total Cost,Total Items
+Propulsion,DIY 3D-Printed Outrunner BLDC Thrusters,"Waterproofed Outrunner BLDC Motors (e.g., 2814/2212) + 3D Printed Ducts & Props",8,$360.00,"4 Horizontal Vectored (Surge/Sway/Yaw), 4 Vertical Vectored (Heave/Pitch/Roll)",FALSE,"$1,935.00",44
+Propulsion,Electronic Speed Controllers (ESCs),30A Bi-directional ESCs with PWM control,8,$180.00,Individual motor speed & direction control,FALSE,,
+Pressure Hull,Cast Acrylic Tube Enclosure,"4"" (100mm ID) x 8mm Wall x 500mm Length Cast Acrylic",1,$90.00,Primary watertight housing rated to 80m,FALSE,,
+Pressure Hull,Anodized Aluminum End-Caps,6061-T6 Aluminum End-Caps with Dual O-Ring Seals,2,$160.00,Seals main pressure housing with penetrator ports,FALSE,,
+Pressure Hull,Quick-Release Internal Tray,3D Printed ABS/PETG Sliding Frame,1,$45.00,Holds computers and batteries for quick extraction,FALSE,,
+Pressure Hull,Wet-Pluggable Cable Penetrators,Stainless Steel / Aluminum M10 Penetrator Bolts,12,$120.00,Waterproof pass-through for thrusters and tether,FALSE,,
+Onboard Electronics,Flight Controller,Pixhawk 4 / Pixhawk Mini running ArduSub,1,$150.00,"Autopilot, IMU, depth-hold, stabilization",FALSE,,
+Onboard Electronics,Companion Computer,Raspberry Pi 4 (4GB RAM) running BlueOS Companion,1,$130.00,"Video streaming, local server, topside relay",TRUE,,
+Onboard Electronics,Low-Light HD Camera,1080p Low-Light Wide-Angle CSI Camera,1,$65.00,Primary forward navigation & video feed,FALSE,,
+Onboard Electronics,Sensor Array,MS5837 Depth/Pressure Sensor + Leak Detection,1,$45.00,Depth tracking and internal leak alerts,FALSE,,
+Power System,High-Capacity LiPo Battery,"4S (14.8V) 5,000mAh High-Discharge LiPo Pack",2,$110.00,Onboard power supply for motors and electronics,FALSE,,
+Power System,Power Distribution Board (PDB),Heavy-duty PDB with dual 5V/12V step-down regulators,1,$30.00,Clean power splitting for motors vs. microcontrollers,FALSE,,
+Topside Station,Neutral-Buoyancy Tether Cable,100m Thin Polyurethane 4-Pair Fathom Tether,1,$220.00,Low-drag data communication cable,FALSE,,
+Topside Station,Topside Field Station Box,"IP67 Case, HomePlug Signal Converter, Local Router",1,$110.00,Off-grid Wi-Fi / Ethernet access point,FALSE,,
+Modular Accessories,Auxiliary High-Lumen Dive Lights,1500 Lumen Waterproof LED Modules,2,$75.00,Adjustable floodlighting mounted to external rail,FALSE,,
+Modular Accessories,3D Printed Exoskeleton Frame,Fully 3D Printed PETG/ASA Frame & Rail System,1,$45.00,Lightweight modular frame for mounts and accessories,FALSE,,
